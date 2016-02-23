@@ -91,19 +91,15 @@
 }
 
 .pl-mb /* markup.bold */ {
-  color: #333;
+  color: #323;
   font-weight: bold;
 }
 
 .pl-md /* markup.deleted, meta.diff.header.from-file */ {
-  background-color: #ffecec;
-  color: #bd2c00;
+  background-color: #bbecec;
+  color: #bd2a00;
 }
 
-.pl-mi1 /* markup.inserted, meta.diff.header.to-file */ {
-  background-color: #eaffea;
-  color: #55a532;
-}
 
 .pl-mdr /* meta.diff.range */ {
   color: #795da3;
